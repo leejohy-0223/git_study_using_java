@@ -7,5 +7,6 @@ public class Test2 {
 
     public void testMethod() {
         System.out.println("change message in main");
+        System.out.println("change this message in feature/02");
     }
 }

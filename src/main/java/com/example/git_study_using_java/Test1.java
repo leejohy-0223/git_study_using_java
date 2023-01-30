@@ -8,4 +8,8 @@ public class Test1 {
     public void firstMethod() {
         System.out.println("it is Method for second commit");
     }
+
+    public void secondMethod() {
+        System.out.println("it is developed in main");
+    }
 }

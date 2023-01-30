@@ -6,6 +6,6 @@ public class Test2 {
     }
 
     public void testMethod() {
-        System.out.println("add test method");
+        System.out.println("change message in main");
     }
 }

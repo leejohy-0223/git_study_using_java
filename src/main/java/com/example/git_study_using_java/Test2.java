@@ -6,6 +6,6 @@ public class Test2 {
     }
 
     public void testMethod() {
-        System.out.println("add test method");
+        System.out.println("change this message in feature/02");
     }
 }
